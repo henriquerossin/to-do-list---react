@@ -1,46 +1,67 @@
-# Getting Started with Create React App
+# 📝 To-Do List — React + TypeScript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este é um projeto simples de **lista de tarefas** (To-Do List) desenvolvido com **React** e **TypeScript**, ideal para treinar conceitos de componentização, tipagem estática, gerenciamento de estado e estilização com CSS modular.
 
-## Available Scripts
+![React + TypeScript](https://img.shields.io/badge/React-TypeScript-blue.svg)
+![Status](https://img.shields.io/badge/status-%20completo-yellow)
 
-In the project directory, you can run:
+## 🚀 Funcionalidades
 
-### `npm start`
+- ✅ Adicionar tarefas
+- ✔️ Marcar tarefas como concluídas
+- 📊 Contador de tarefas criadas, pendentes e concluídas
+- ⚠️ Validação para impedir tarefas vazias
+- 💅 Estilização com módulos CSS
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 🛠️ Tecnologias utilizadas
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- CSS Modules
 
-### `npm test`
+## 📂 Estrutura do projeto
+```bash
+src/
+├── assets/ # Imagens e ícones
+├── components/ # Componentes reutilizáveis
+├── styles/ # Estilos globais e variáveis
+├── App.tsx # Componente principal
+└── main.tsx # Ponto de entrada da aplicação
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ▶️ Como rodar o projeto
 
-### `npm run build`
+1. Clone o repositório:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+git clone https://github.com/henriquerossin/to-do-list---react.git
+cd to-do-list---react
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Instale as dependências:
+```bash
+npm install
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. Execute o projeto e acesse no seu localhost:
+```bash
+npm run dev
+```
 
-### `npm run eject`
+4. Ou você pode acessar diretamente o link do site :)
+```bash
+https://todo-vue-nu-six.vercel.app
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+🧠 Aprendizados
+Durante o desenvolvimento desse projeto, foram reforçados conceitos como:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Tipagem com TypeScript no React
+- Manipulação de listas e estado
+- Componentização e reutilização
+- Boas práticas de estilização com CSS Modules
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+✍️ Autor
+Feito por Henrique Rossin
+Linkedin - https://www.linkedin.com/in/henrique-rossin
+GitHub - https://github.com/henriquerossin
