@@ -63,5 +63,5 @@ Durante o desenvolvimento desse projeto, foram reforçados conceitos como:
 
 ✍️ Autor
 Feito por Henrique Rossin
-Linkedin - https://www.linkedin.com/in/henrique-rossin
-GitHub - https://github.com/henriquerossin
+- Linkedin - https://www.linkedin.com/in/henrique-rossin
+- GitHub - https://github.com/henriquerossin
