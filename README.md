@@ -11,7 +11,7 @@ Este é um projeto simples de **lista de tarefas** (To-Do List) desenvolvido com
 - ✔️ Marcar tarefas como concluídas
 - 📊 Contador de tarefas criadas, pendentes e concluídas
 - ⚠️ Validação para impedir tarefas vazias
-- 💅 Estilização com módulos CSS
+- :) Estilização com módulos CSS
 
 ## 🛠️ Tecnologias utilizadas
 
